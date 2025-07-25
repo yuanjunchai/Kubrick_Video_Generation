@@ -264,7 +264,7 @@ This implementation is for research purposes. Please cite the original paper:
 - Blender Foundation for Blender 3D
 - Open source community for supporting libraries
 
-## Code Framework of the paper:
+<!-- ## Code Framework of the paper:
 
 kubrick/
 ├── __init__.py
@@ -322,4 +322,4 @@ kubrick/
     ├── __init__.py
     ├── test_agents.py
     ├── test_blender.py
-    └── test_pipeline.py
+    └── test_pipeline.py -->
